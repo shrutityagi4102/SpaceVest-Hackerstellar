@@ -1,4 +1,4 @@
-# SpaceVest (Hackerstellar) - Winner in the Web/App domain at Hackerstellar
+# SpaceVest (Hackerstellar) - Winner at Hackerstellar
 
 **_SUSTAINABLE INVESTING IN 2050_**
 
