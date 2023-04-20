@@ -25,14 +25,14 @@ Twelve Data9d6b3-45cd-47df-bac4-27d8f0681a66.png">
 
 ## How we built it
 
-Website: MERN stack, Material UI, Firebase for authentication
-App: Flutter, Dart, Firebase for authentication
-API's Used: Rapid API, Gaialens esg scores API, Twelve Data
-User interface design: Figma
+* Website: MERN stack, Material UI, Firebase for authentication
+* App: Flutter, Dart, Firebase for authentication
+* API's Used: Rapid API, Gaialens esg scores API, Twelve Data
+* User interface design: Figma
 
 
 ## Challenges we ran into
 
-*Finding relevant Data
-*Making the App as well as the website because we felt both were important to investors
-*Finding futuristic sustainable options
+* Finding relevant Data
+* Making the App as well as the website because we felt both were important to investors
+* Finding futuristic sustainable options
