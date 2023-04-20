@@ -10,8 +10,8 @@ SUSTAINABLE INVESTING IN 2050
 SpaceVest is a futuristic comprehensive investing platform which aims to promote sustainability amongst its user's by introducing them to diverse and sustainable investment options with advisory and portfolio generation options for both companies and investors
 
 Our Solution has 2 main components :
-* Introductory Web Application
-* Mobile Application
+* **Introductory Web Application**
+* **Mobile Application**
 
 ## How we built it
 
